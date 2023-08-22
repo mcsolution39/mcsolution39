@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mcsolution39
 - 👀 I’m interested in Full Stack Web projects
-- 🌱 I have good experience with
-      : LAMP Stacks => PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL
-      : MEAN stacks => Node.js, Express, React, Next.js, MongoDB, JavaScript, TypeScript
-      : Special stacks: Pythong/Django, .NET/ASP.NET/.NET Core MVC, Ruby on Rails,
+- 🌱 I have good experience with <br>
+&nbsp; * LAMP Stacks => PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL<br>
+&nbsp; * MEAN stacks => Node.js, Express, React, Next.js, MongoDB, JavaScript, TypeScript<br>
+&nbsp; * Special stacks: Pythong/Django, .NET/ASP.NET/.NET Core MVC, Ruby on Rails
 
 
 <!---
